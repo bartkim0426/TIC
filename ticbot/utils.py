@@ -4,7 +4,7 @@ from http import HTTPStatus
 import requests
 
 
-SLACK_HOOK_URL = 'https://hooks.slack.com/services/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'
+SLACK_HOOK_URL = 'https://hooks.slack.com/services/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'
 
 
 def send_slack_message(data: dict):
